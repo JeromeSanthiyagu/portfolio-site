@@ -3,7 +3,7 @@ export const resumeData = {
         name: "Jerom Santhiyagu A",
         title: "Web and Mobile App Developer",
         location: "Chennai, Tamil Nadu",
-        phone: "7708460223",
+        phone: "7845190223",
         email: "jeromesanthiyagu68@gmail.com",
         summary:
             "Enthusiastic and detail-oriented Web and Mobile App Developer with a Bachelor's degree in Computer Science Engineering. Proficient in Java and PHP, with foundational knowledge in Dart. Eager to leverage academic knowledge and hands-on project experience in mobile app development to contribute effectively to innovative projects. Committed to continuous learning and professional growth in the tech industry.",
